@@ -52,7 +52,26 @@ UniversityManagementSystem/
 │       └── Reservation.java
 │
 ├── database/                         
-│   └── UniversitySystemDB.sql             
+│   └── UniversitySystemDB.sql  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 I have also included the database code show how the tables in MySQL connect with DAO in java.
             Designed by JACKSON MUEMA
